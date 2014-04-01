@@ -3,6 +3,7 @@ sublime-config
 
 My Sublime Text 3 Config File
 
+```
 {
 	"color_scheme": "Packages/User/Flatland Monokai (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
@@ -25,3 +26,4 @@ My Sublime Text 3 Config File
 	"default_line_ending" : "windows",
 	"fallback_encoding": "UTF-8"
 }
+```
